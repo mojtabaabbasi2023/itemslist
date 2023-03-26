@@ -1,4 +1,5 @@
-items:[ {
+{
+items:[{
             id: 'module',
             title: 'ماژول',
             type: 'group',
@@ -14,4 +15,7 @@ items:[ {
                     icon: ''
                 }
             ]
-        },]
+        }]
+}
+
+
