@@ -1,6 +1,7 @@
 {
-'items':[{
-            'id': 'module',
+  "posts": [
+    {
+      'id': 'module',
             'title': 'ماژول',
             'type': 'group',
             'visibility': true,
@@ -15,7 +16,9 @@
                    'icon': ''
                 }
             ]
-        }]
+    }
+      
+      ]
 }
 
 
