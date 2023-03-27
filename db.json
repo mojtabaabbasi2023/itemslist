@@ -19,23 +19,25 @@
         }
         
         ,
-        {
-            "id": 'navigation',
-            "title": 'Navigation',
-            "type": 'group',
-            "visibility": true,
-            "icon": 'icon-navigation',
-            "children": [
-                {
-                    "id": 'dashboard',
-                    "title": 'Dashboard',
-                    "type": 'item',
-                    "visibility": true,
-                    "url": '/dashboard/default',
-                    "icon": 'feather icon-home'
-                }
-            ]
-        },
+       
+{
+    "id": "navigation",
+        "title": "Navigation",
+            "type": "group",
+                "visibility": true,
+                    "icon": "icon-navigation",
+                        "children": [
+                            {
+                                "id": "dashboard",
+                                "title": "Dashboard",
+                                "type": "item",
+                                "visibility": true,
+                                "url": "/dashboard/default",
+                                "icon": "feather icon-home"
+                            }
+                        ]
+},
+
 
     ]
 }
