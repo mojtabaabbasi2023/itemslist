@@ -16,8 +16,7 @@
                     "icon": ""
                 }
             ]
-        },
-        {
+        },{
             "id": "navigation",
             "title": "Navigation",
             "type": "group",
